@@ -1,2 +1,3 @@
-# Python-Coding-Practice
-A collection of my Python practice scripts, mini projects, and problem-solving exercises as I continue improving my programming skills.
+# Python Coding Practice
+This repository includes a collection of my Python scripts, organized by topic and difficulty.  
+Each file represents an exercise or challenge I solved while improving my Python and problem-solving skills.
